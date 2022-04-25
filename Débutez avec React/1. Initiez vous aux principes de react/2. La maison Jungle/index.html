@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="fr">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport"
+              content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <title>Document</title>
+    </head>
+    <body>
+        <div id="root"></div>
+        <script crossorigin src="https://unpkg.com/react@17/umd/react.development.js"></script>
+        <script crossorigin src="https://unpkg.com/react-dom@17/umd/react-dom.development.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.26.0/babel.min.js"></script>
+
+        <script type="text/babel">
+
+            function Header() {
+                let title = "La Maison Jungle";
+                return (
+                    <div>
+                        <h1>{title.toUpperCase()}</h1>
+                    </div>
+                )
+            }
+
+            function Description() {
+                const text = "Ici achetez toutes les plantes dont vous avez toujours rêvé 🌵🌱🎍"
+                return (<p>{text}</p>)
+            }
+
+            function Banner() {
+                return (<div>
+                    <Header/>
+                    <Description/>
+                </div>)
+            }
+
+            function Cart() {
+                const prixMonsterra = 8
+                const prixLierre = 10
+                const prixBouquetFleurs = 15
+                return (
+                    <div>
+                        <ul>
+                            <li>Monsterra : {prixMonsterra}</li>
+                            <li>Lierre : {prixLierre}</li>
+                            <li>Bouquet de fleurs : {prixBouquetFleurs}</li>
+                        </ul>
+                        <p>Le prix total du panier est : {prixMonsterra + prixLierre + prixBouquetFleurs}€</p>
+                    </div>
+                )
+            }
+
+            ReactDOM.render(<div><Banner/><Cart/></div>, document.getElementById("root")
+            )
+
+        </script>
+    </body>
+</html>
