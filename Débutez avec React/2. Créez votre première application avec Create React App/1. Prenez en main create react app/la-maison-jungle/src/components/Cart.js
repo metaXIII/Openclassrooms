@@ -1,18 +1,18 @@
-import "../styles/Cart.css"
+import '../styles/Cart.css'
 
-const Cart = () => {
-    const prixMonsterra = 8
-    const prixLierre = 10
-    const prixBouquetFleurs = 15
+function Cart() {
+    const monsteraPrice = 8
+    const ivyPrice = 10
+    const flowerPrice = 15
     return (
-        <div className="lmj-cart">
+        <div className='lmj-cart'>
             <h2>Panier</h2>
             <ul>
-                <li>Monsterra : {prixMonsterra}</li>
-                <li>Lierre : {prixLierre}</li>
-                <li>Bouquet de fleurs : {prixBouquetFleurs}</li>
+                <li>Monstera : {monsteraPrice}€</li>
+                <li>Lierre : {ivyPrice}€</li>
+                <li>Fleurs : {flowerPrice}€</li>
             </ul>
-            <p>Le prix total du panier est : {prixMonsterra + prixLierre + prixBouquetFleurs}€</p>
+            Total : {monsteraPrice + ivyPrice + flowerPrice}€
         </div>
     )
 }
