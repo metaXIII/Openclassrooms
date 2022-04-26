@@ -1,3 +1,0 @@
-# Openclassrooms
-
-# A venir
