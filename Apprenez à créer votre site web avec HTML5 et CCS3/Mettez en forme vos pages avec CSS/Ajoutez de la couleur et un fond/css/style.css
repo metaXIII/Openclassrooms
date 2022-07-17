@@ -1,0 +1,15 @@
+body {
+    background-color: lightgray;
+}
+
+.red {
+    background-color: red;
+}
+
+.black {
+    background-color: #000;
+}
+
+.rgba {
+    background-color: rgba(89, 150, 175, .6)
+}

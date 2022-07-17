@@ -1,0 +1,16 @@
+@font-face {
+    font-family: qahiri;
+    src: url("./../resources/Qahiri-Regular.ttf");
+}
+
+.high {
+    font-size: 20px;
+}
+
+.police {
+    font-size: 1.8em;
+    font-family: qahiri;
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: underline;
+}
