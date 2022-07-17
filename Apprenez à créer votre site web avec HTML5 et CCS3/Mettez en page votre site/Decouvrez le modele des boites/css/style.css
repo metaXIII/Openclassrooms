@@ -1,0 +1,18 @@
+.p1 {
+    background-color: rgba(159,103,75,.7);
+    margin: auto;
+}
+
+.p2 {
+    margin-right: 0;
+    background-color: rgba(159,103,75,.7);
+    height: 50px;
+    overflow: auto;
+}
+
+p {
+    border: 1px solid #000;
+    width: 50%;
+    text-align: justify;
+    padding: 10px;
+}

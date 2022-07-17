@@ -1,0 +1,26 @@
+#conteneur
+{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+div {
+    width: 300px;
+    height: 200px;
+}
+
+.element1 {
+    background-color: yellow;
+}
+
+.element2 {
+    background-color: blue;
+
+}
+
+.element3 {
+    background-color: green;    
+}

@@ -1,0 +1,15 @@
+D:\Lab\openclassrooms\Cours\Apprenez à programmer en VB.NET\1. Les théories et les bases\2. Premiers pas\Hello World\bin\Debug\net6.0\Hello World.exe
+D:\Lab\openclassrooms\Cours\Apprenez à programmer en VB.NET\1. Les théories et les bases\2. Premiers pas\Hello World\bin\Debug\net6.0\Hello World.deps.json
+D:\Lab\openclassrooms\Cours\Apprenez à programmer en VB.NET\1. Les théories et les bases\2. Premiers pas\Hello World\bin\Debug\net6.0\Hello World.runtimeconfig.json
+D:\Lab\openclassrooms\Cours\Apprenez à programmer en VB.NET\1. Les théories et les bases\2. Premiers pas\Hello World\bin\Debug\net6.0\Hello World.dll
+D:\Lab\openclassrooms\Cours\Apprenez à programmer en VB.NET\1. Les théories et les bases\2. Premiers pas\Hello World\bin\Debug\net6.0\Hello World.pdb
+D:\Lab\openclassrooms\Cours\Apprenez à programmer en VB.NET\1. Les théories et les bases\2. Premiers pas\Hello World\obj\Debug\net6.0\Hello World.vbproj.AssemblyReference.cache
+D:\Lab\openclassrooms\Cours\Apprenez à programmer en VB.NET\1. Les théories et les bases\2. Premiers pas\Hello World\obj\Debug\net6.0\Hello World.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lab\openclassrooms\Cours\Apprenez à programmer en VB.NET\1. Les théories et les bases\2. Premiers pas\Hello World\obj\Debug\net6.0\Hello World.AssemblyInfoInputs.cache
+D:\Lab\openclassrooms\Cours\Apprenez à programmer en VB.NET\1. Les théories et les bases\2. Premiers pas\Hello World\obj\Debug\net6.0\Hello World.AssemblyInfo.vb
+D:\Lab\openclassrooms\Cours\Apprenez à programmer en VB.NET\1. Les théories et les bases\2. Premiers pas\Hello World\obj\Debug\net6.0\Hello World.vbproj.CoreCompileInputs.cache
+D:\Lab\openclassrooms\Cours\Apprenez à programmer en VB.NET\1. Les théories et les bases\2. Premiers pas\Hello World\obj\Debug\net6.0\Hello World.dll
+D:\Lab\openclassrooms\Cours\Apprenez à programmer en VB.NET\1. Les théories et les bases\2. Premiers pas\Hello World\obj\Debug\net6.0\refint\Hello World.dll
+D:\Lab\openclassrooms\Cours\Apprenez à programmer en VB.NET\1. Les théories et les bases\2. Premiers pas\Hello World\obj\Debug\net6.0\Hello World.pdb
+D:\Lab\openclassrooms\Cours\Apprenez à programmer en VB.NET\1. Les théories et les bases\2. Premiers pas\Hello World\obj\Debug\net6.0\Hello World.genruntimeconfig.cache
+D:\Lab\openclassrooms\Cours\Apprenez à programmer en VB.NET\1. Les théories et les bases\2. Premiers pas\Hello World\obj\Debug\net6.0\ref\Hello World.dll
