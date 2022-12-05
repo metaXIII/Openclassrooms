@@ -10,7 +10,7 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<maven.compiler.source>11</maven.compiler.source>
 		<maven.compiler.target>${maven.compiler.source}</maven.compiler.target>
-		<bootstrap.version>4.6.2</bootstrap.version>
+		<bootstrap.version>5.2.3</bootstrap.version>
 		<springboot.version>2.2.0.RELEASE</springboot.version>
 	</properties>
 
